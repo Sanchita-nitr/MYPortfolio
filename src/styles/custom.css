@@ -4,7 +4,6 @@
   --color-accent: #06b6d4;
   --muted: #64748b;
 }
-
 /* Scrollbar */
 ::-webkit-scrollbar{ width:8px; height:8px; }
 ::-webkit-scrollbar-thumb{ background: linear-gradient(180deg,var(--color-primary),var(--color-accent)); border-radius:8px; }

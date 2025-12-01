@@ -1,6 +1,5 @@
 // src/components/Projects.tsx
 "use client";
-import React from "react";
 import { PROJECTS } from "../data/projectsData";
 import { motion } from "framer-motion";
 
