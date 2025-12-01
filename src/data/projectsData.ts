@@ -1,4 +1,4 @@
-// src/data/projectsData.ts
+
 export type Project = {
   title: string;
   subtitle?: string;
